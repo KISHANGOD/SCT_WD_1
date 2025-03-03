@@ -24,4 +24,7 @@ displaying lap times, users
 can accurately measure and
 record time intervals.
 ☑️
+
 ---
+
+📌 More tasks comming soon
