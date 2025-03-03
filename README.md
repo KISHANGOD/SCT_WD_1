@@ -9,7 +9,7 @@ This repository contains tasks and projects completed during my internship at Sk
 **Task 1:** Create an interactive navigation menu that changes
 color or style when scrolled or
 when hovering over a menu
-item.
+item. ☑️
 
 ---
 
@@ -23,5 +23,5 @@ well as tracking and
 displaying lap times, users
 can accurately measure and
 record time intervals.
-
+☑️
 ---
