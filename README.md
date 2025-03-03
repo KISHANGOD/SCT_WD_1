@@ -4,9 +4,24 @@ This repository contains tasks and projects completed during my internship at Sk
 * HTML
 * CSS
 * JavaScript
-## Task 
-Create an interactive navigation menu that changes
+## Task list
+
+**Task 1:** Create an interactive navigation menu that changes
 color or style when scrolled or
 when hovering over a menu
 item.
+
+---
+
+**Task 2:** Create an interactive and
+user-friendly stopwatch web
+application.
+Implement functions for
+starting, pausing, and
+resetting the stopwatch, as
+well as tracking and
+displaying lap times, users
+can accurately measure and
+record time intervals.
+
 ---
