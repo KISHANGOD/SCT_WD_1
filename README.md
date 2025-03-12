@@ -11,4 +11,10 @@ color or style when scrolled or
 when hovering over a menu
 item.
 
+## How to run
+* Click on the deployment link in about section of this repo
+  ### OR
+* Clone this repo using
+    
+git clone https://github.com/KISHANGOD/SCT_WD_
 ---
