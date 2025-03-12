@@ -12,8 +12,9 @@ when hovering over a menu
 item.
 
 ## How to run
-* Click on the deployment link in about section of this repo
-  ### OR
-* Clone this repo using
- ```bash 
-git clone https://github.com/KISHANGOD/SCT_WD_
+Click on the deployment link in about section of this repo
+
+## Key features
+✅ Dynamic hover effects for better UI/UX
+✅ Fixed navigation bar for seamless page transitions
+✅ Responsive design for a smooth experience across devices
