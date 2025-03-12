@@ -12,7 +12,7 @@ when hovering over a menu
 item.
 
 ## How to run
-Click on the deployment link in about section of this repo
+Click on the deployment link in the About section of this repo
 
 ## Key features
 ✅ Dynamic hover effects for better UI/UX <br>
