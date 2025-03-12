@@ -15,6 +15,9 @@ item.
 Click on the deployment link in about section of this repo
 
 ## Key features
-✅ Dynamic hover effects for better UI/UX
-✅ Fixed navigation bar for seamless page transitions
+✅ Dynamic hover effects for better UI/UX <br>
+✅ Fixed navigation bar for seamless page transitions <br>
 ✅ Responsive design for a smooth experience across devices
+
+---
+🌟 Feel free to explore and provide feedback
