@@ -15,6 +15,6 @@ item.
 * Click on the deployment link in about section of this repo
   ### OR
 * Clone this repo using
-    
+ ```bash 
 git clone https://github.com/KISHANGOD/SCT_WD_
 ---
