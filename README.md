@@ -19,5 +19,8 @@ Click on the deployment link in the About section of this repo
 ✅ Fixed navigation bar for seamless page transitions <br>
 ✅ Responsive design for a smooth experience across devices
 
----
+
+
 🌟 Feel free to explore and provide feedback
+---
+
